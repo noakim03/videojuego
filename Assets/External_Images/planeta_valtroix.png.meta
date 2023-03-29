@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: 506f9cd0900334744a8beffc55466043
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planeta_valtroix_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afffcf363adaf44aa0904321803db16
+      internalID: 1397656363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaab0328539969347be2fa0855bd3b20
+      internalID: 570125221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c29f629d1f7d439b64bd92047d026
+      internalID: 1275083164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b143ed92df2d4f45b37ed99827ce55a
+      internalID: -831313177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48d377725c0f446a6f81db5460c0d7
+      internalID: 1130953604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474f63a35c2b9840ae1632611422dba
+      internalID: -988902559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ef8b561321f048964a843f503a67e
+      internalID: -415110576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 530
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ce1718abecd64eaa904c6308bc030
+      internalID: 1209922771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bae21e06cf174a88bc49bf8aeb822
+      internalID: -1658238898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a819c02eb321e4e8bd5a83e54b8eef
+      internalID: 1850413375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f68bc8c40585489129adff76d48f4
+      internalID: 1420150637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3172237553ffae49849d0a8c470a41f
+      internalID: -2072418761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee49e8601c133a42b20b00df0ff5791
+      internalID: -1986186943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b44770b950ad149ae91cdab9328382
+      internalID: 773330880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802eac251a78e844a8b7ff4ded8f5eff
+      internalID: -456758163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_15
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 425
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136b62bbcd867841862ba71cbce2893
+      internalID: 1912534572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab100e6d0a88c4db7d4c4b4fb7fc34
+      internalID: -209960486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cabf34a0819deb4694d61d8f87f4d4d
+      internalID: -1017092422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2978eff802b8a64cadc0726c542187d
+      internalID: 1800823348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5070a0c72eaf46a7b36847398ed88
+      internalID: -62737234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e736eabad5c7d4eb9d0488cfb577c1
+      internalID: 970534642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6c79c572d4794794f5ffdeaf6a9c7
+      internalID: -666250007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09884522915c24d918a01b29708eaf
+      internalID: -622257395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 320
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e694e4c899b344490737199b9206ac
+      internalID: 780760594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2db8975f9eeb342bb1264c588ff4dc
+      internalID: -509962197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794ad68f003fbaa4e9a54e9e7e1fb792
+      internalID: 166164762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdbdc2d04f3b20409c69c017880482a
+      internalID: 1128980019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56831e05951bc429b042d9eee77f27
+      internalID: -470903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06bb70b4654a70439d24b9447e5d53c
+      internalID: -1218439699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5e824d7056cf94eba7e639522fe98a
+      internalID: 456957747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ed1b4f5e1591468c08b291b01f852
+      internalID: 1937287606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_31
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 215
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dd66ec03cbb048870a10edeef5ca6
+      internalID: 1120625271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6ddcc050b0ce4fb6d250c4735ddfb
+      internalID: 89133668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23176ac30fa32cb4f9c0ff0a71fccc91
+      internalID: 1880454750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500883f4db26b5543a5bfb278c4c99ad
+      internalID: -2110033301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfcc1c2b905599499d0232d4d4d8051
+      internalID: -1888092829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9ab33d1c281044bb05503c3991812
+      internalID: 2019078008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_37
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb954c782d98849ae0fb21d481a395
+      internalID: 488211848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616668745339ca742a9a134b0cfdb1da
+      internalID: 784911337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 110
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975e1ddcd070f046a77549fb87cb50b
+      internalID: -1257392506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e45b86cffe04b46ade050e3dd42dac
+      internalID: 761650499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc710766763c92a4a9a987e720d1354e
+      internalID: -1446084888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095bc25f49938134b8020d6e34521dbb
+      internalID: -2140471888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_43
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7437bf52700e34ea509204a5477130
+      internalID: -166299325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357f1007b3d1cc428461b0947c1998a
+      internalID: -1917371475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_45
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c90d750c2b9d4e8888ea28b00b93f
+      internalID: -68541758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_46
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008601ea8cd44514abb0f28f936324e8
+      internalID: -145254317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planeta_valtroix_47
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 5
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d94802143ba248b1559648f5aedbe
+      internalID: 1173446264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      planeta_valtroix_9: 1850413375
+      planeta_valtroix_32: 89133668
+      planeta_valtroix_19: -62737234
+      planeta_valtroix_35: -1888092829
+      planeta_valtroix_23: 780760594
+      planeta_valtroix_17: -1017092422
+      planeta_valtroix_16: -209960486
+      planeta_valtroix_40: 761650499
+      planeta_valtroix_44: -1917371475
+      planeta_valtroix_47: 1173446264
+      planeta_valtroix_10: 1420150637
+      planeta_valtroix_45: -68541758
+      planeta_valtroix_18: 1800823348
+      planeta_valtroix_0: 1397656363
+      planeta_valtroix_1: 570125221
+      planeta_valtroix_31: 1120625271
+      planeta_valtroix_2: 1275083164
+      planeta_valtroix_46: -145254317
+      planeta_valtroix_26: 1128980019
+      planeta_valtroix_25: 166164762
+      planeta_valtroix_8: -1658238898
+      planeta_valtroix_4: 1130953604
+      planeta_valtroix_22: -622257395
+      planeta_valtroix_30: 1937287606
+      planeta_valtroix_15: 1912534572
+      planeta_valtroix_5: -988902559
+      planeta_valtroix_3: -831313177
+      planeta_valtroix_38: 784911337
+      planeta_valtroix_37: 488211848
+      planeta_valtroix_20: 970534642
+      planeta_valtroix_21: -666250007
+      planeta_valtroix_12: -1986186943
+      planeta_valtroix_29: 456957747
+      planeta_valtroix_14: -456758163
+      planeta_valtroix_11: -2072418761
+      planeta_valtroix_13: 773330880
+      planeta_valtroix_41: -1446084888
+      planeta_valtroix_34: -2110033301
+      planeta_valtroix_39: -1257392506
+      planeta_valtroix_42: -2140471888
+      planeta_valtroix_24: -509962197
+      planeta_valtroix_43: -166299325
+      planeta_valtroix_28: -1218439699
+      planeta_valtroix_36: 2019078008
+      planeta_valtroix_7: 1209922771
+      planeta_valtroix_6: -415110576
+      planeta_valtroix_33: 1880454750
+      planeta_valtroix_27: -470903855
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
