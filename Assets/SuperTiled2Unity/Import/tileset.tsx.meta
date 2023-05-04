@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: adaaf2eb82dc1b5439cdbb17b331335b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - "../Escritorio/UNIV/4SEM/Construcci\xF3n de software y toma de decisiones_T2005B/EjerciciosUnity/Reto/Assets/Tiny
+    RPG Forest/Artwork/Environment/tileset.png"
+  errors:
+  - "Missing texture asset: ../Escritorio/UNIV/4SEM/Construcci\xF3n de software y
+    toma de decisiones_T2005B/EjerciciosUnity/Reto/Assets/Tiny RPG Forest/Artwork/Environment/tileset.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 13
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
